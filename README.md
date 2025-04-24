@@ -1,6 +1,3 @@
-# StudySync-
-Smart Study Planner for Students.
-
 # StudySync – Smart Study Planner for Students
 
 StudySync is a comprehensive and intuitive study planner designed for students to help them organize their study schedule, take notes, set tasks, and stay productive. With features like to-do lists, Pomodoro timer, motivational quotes, and a theme toggler, StudySync is an all-in-one solution to boost productivity and enhance the study experience.
